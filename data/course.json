@@ -1,0 +1,61 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Society",
+      "Asian Studies"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ]
+  ],
+  "legacy_uid": "f493858b-64bc-e2eb-231d-3807ec45be55",
+  "instructors": {
+    "content": [
+      "68cf1125-ef07-fa48-f1e7-8416b3856d71"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3d7265f7-cbe6-0cd7-46b2-4150b6f47634",
+    "website": "21g-011-topics-in-indian-popular-culture-spectacle-masala-and-genre-fall-2006"
+  },
+  "course_title": "Topics in Indian Popular Culture: Spectacle, Masala, and Genre",
+  "course_description": "This course aims to provide an overview of Indian popular culture over the last two decades, through a variety of material such as popular fiction, music, television and Bombay cinema. The class will explore major themes and their representations in relation to current social and political issues. In particular, students will examine the elements of the formulaic \"masala movie\", music and melodrama, the ideas of nostalgia and incumbent change in youth culture, as well as shifting questions of gender and sexuality in popular fiction. During the course, students will look at some journalistic writing, advertising clips and political cartoons to understand the relation between the popular culture and the social imagery of a nation. This course is taught in English.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.011",
+  "course_image_thumbnail": {
+    "content": "d3acae0b-546c-f64b-da56-efee1b3c9ea7",
+    "website": "21g-011-topics-in-indian-popular-culture-spectacle-masala-and-genre-fall-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "57f6185c-40cc-453c-bd31-0c36834c8503",
+  "site_short_id": "21g.011-fall-2006",
+  "site_url_path": "courses/21g-011-topics-in-indian-popular-culture-spectacle-masala-and-genre-fall-2006",
+  "title": "Course Metadata"
+}
